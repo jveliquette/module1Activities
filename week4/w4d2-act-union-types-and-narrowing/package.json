@@ -1,0 +1,19 @@
+{
+  "name": "w4d2-union-types-and-narrowing",
+  "version": "1.0.0",
+  "description": "Practice with union types and type narrowing.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --watch",
+    "start": "npx nodemon ./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hack Reactor",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node-lts": "^18.12.5",
+    "@types/node": "^20.6.2",
+    "typescript": "^5.2.2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "w2d3-introduction-to-data-structures-arrays-objects",
+    "version": "1.0.0",
+    "description": "Practice with data structures (arrays and objects).",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "author": "Hack Reactor",
+    "license": "ISC"
+  }

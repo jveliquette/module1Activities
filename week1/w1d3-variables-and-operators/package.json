@@ -1,0 +1,13 @@
+{
+  "name": "w2d1-Variables and Operators",
+  "version": "1.0.0",
+  "description": "Practice with variables and operators.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Hack Reactor",
+  "license": "ISC"
+}

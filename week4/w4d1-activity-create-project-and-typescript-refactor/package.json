@@ -1,0 +1,20 @@
+{
+  "name": "w4d1-activity-create-project-and-typescript-refactor",
+  "version": "1.0.0",
+  "description": "### Activity Description In this activity, we will practice creating a Typescript project from scratch and then performing a simple Javascript to Typescript refactor. We are given a shopping list application that keeps tracks of a list of items to buy during the next visit to the store. However, this application is still plain old Javascript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node-lts": "^18.12.5",
+    "@types/node": "^20.6.2",
+    "typescript": "^5.2.2"
+  }
+}

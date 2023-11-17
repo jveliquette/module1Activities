@@ -1,0 +1,14 @@
+{
+  "name": "w2d2-expressions",
+  "version": "1.0.0",
+  "description": "Practice with expressions and conditional statements.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Hack Reactor",
+  "license": "ISC"
+}
+

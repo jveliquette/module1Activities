@@ -1,0 +1,16 @@
+{
+  "name": "w3d4-activity-modules",
+  "version": "1.0.0",
+  "description": "### Activity Description In this activity, you will complete development of a shopping list application. To start, we're given an `index.js` file with a few function definitions.Each of these function names (or signatures) are intentionally misnamed, though the function bodies contain all the logic needed to maintain a shopping list, writing to and reading from a `data.json` file.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}

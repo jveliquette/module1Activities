@@ -1,0 +1,13 @@
+{
+	"name": "w3d2-intro-to-oop-javascript",
+	"version": "1.0.0",
+	"description": "Practice with Object Oriented Programming (OOP) concepts.",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+	  "test": "echo \"Error: no test specified\" && exit 1",
+	  "start": "node index.js"
+	},
+	"author": "Hack Reactor",
+	"license": "ISC"
+  }
